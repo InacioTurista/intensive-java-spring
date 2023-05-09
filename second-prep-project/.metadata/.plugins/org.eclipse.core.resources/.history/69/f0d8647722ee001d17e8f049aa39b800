@@ -1,0 +1,5 @@
+package com.inacioturist.secondproject.repositories;
+
+public interface ProductRepository {
+
+}
