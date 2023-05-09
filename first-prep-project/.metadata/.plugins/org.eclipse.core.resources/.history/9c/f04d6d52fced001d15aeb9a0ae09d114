@@ -1,0 +1,5 @@
+package com.inacioturist.firstproject.controller;
+
+public class ProductController {
+
+}
